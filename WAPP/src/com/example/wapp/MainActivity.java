@@ -19,6 +19,6 @@ public class MainActivity extends Activity {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
-    //Test für git
+    //Test fuer git und mehr
     
 }
